@@ -182,7 +182,7 @@ input:focus{
         cursor: pointer;
     }
     .shop img{
-        width: cover;
+        width: 100%;
 
     }
     .product{
