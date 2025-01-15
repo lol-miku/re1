@@ -168,7 +168,7 @@ input:focus{
     }
     .news h2{
         font-size: 40px;
-
+        align-items: center;
     }
     .menu{
         display: block;
@@ -182,7 +182,7 @@ input:focus{
         cursor: pointer;
     }
     .shop img{
-        width: 100%;
+        width: cover;
 
     }
     .product{
